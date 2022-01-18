@@ -1,0 +1,2 @@
+This is for gd130 uart 调试说明；
+1. 关于gd130-DMA+空闲中断接收数据覆盖的问题
